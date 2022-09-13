@@ -2,9 +2,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammet-duyar-370566193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammetduyarlink" height="30" width="40" /></a>
-
-<a href="https://saysaviour.itch.io/" target="blank"><img align="center" src="https://static.wikia.nocookie.net/english-otome-games/images/b/bd/Itchio.png/revision/latest/scale-to-width-down/2400?cb=20200629213038" alt="muhammetduyar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammet-duyar-370566193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammetduyarlink" height="30" width="40" /></a><a href="https://saysaviour.itch.io/" target="blank"><img align="center" src="https://static.wikia.nocookie.net/english-otome-games/images/b/bd/Itchio.png/revision/latest/scale-to-width-down/2400?cb=20200629213038" alt="muhammetduyar" height="30" width="40" /></a>
 </p>
 
 
